@@ -41,5 +41,5 @@ To get started with these projects:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/cisco-network-projects.git
+   git clone https://github.com/aidhas23/cisco-network-projects.git
    #then view the cloned project in cisco packet tracer
